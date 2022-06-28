@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 90px;
+  margin: 50px auto 0  auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  /* line-height: 4; */
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #E3FDFD;
+  padding-top: 100px;
+  position: relative;
+  /* height: 200px;
+  width: 200px;
+  border: solid 10px;
+  border-color: black;
+  padding: 20px; */
+}
+
+.subtitle {
+  width: 40%;
+  margin: 0 auto 0 auto;
+}
+
+.top-cloud {
+  position: absolute;
+  padding: 20px;
+  right: 300px;
+  top: 50px
+}
+
+.bottom-cloud {
+  position: absolute;
+  padding: 20px;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-mountain {
+  /* margin: 0 auto 0 auto; */
+  /* position: relative; */
+  align-content: center;
+}
+
+
+.pro {
+  text-transform: uppercase;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.code-img {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.chilli-img {
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+
+.code-skill-description {
+  /* clear: left; */
+}
